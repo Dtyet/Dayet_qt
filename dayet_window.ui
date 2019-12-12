@@ -13,6 +13,13 @@
   <property name="windowTitle">
    <string>Form</string>
   </property>
+  <property name="windowIcon">
+   <iconset resource="images.qrc">
+    <normaloff>:/d_image/images/20150428021753_Auj2h.jpeg</normaloff>:/d_image/images/20150428021753_Auj2h.jpeg</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
   <widget class="QGroupBox" name="groupBox">
    <property name="geometry">
     <rect>
@@ -83,7 +90,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>C:/Users/Dayet/Pictures/169c727ff45bf1e23d107a2b8d6280fc.jpg</pixmap>
+       <pixmap resource="images.qrc">:/d_image/images/20150428021753_Auj2h.jpeg</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -301,26 +308,9 @@
     </item>
    </layout>
   </widget>
-  <widget class="QLabel" name="label_19">
-   <property name="geometry">
-    <rect>
-     <x>10</x>
-     <y>80</y>
-     <width>541</width>
-     <height>391</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="pixmap">
-    <pixmap>C:/Users/Dayet/Pictures/7-130514131335.jpg</pixmap>
-   </property>
-   <property name="scaledContents">
-    <bool>true</bool>
-   </property>
-  </widget>
  </widget>
- <resources/>
+ <resources>
+  <include location="images.qrc"/>
+ </resources>
  <connections/>
 </ui>

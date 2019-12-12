@@ -15,7 +15,8 @@ Widget::Widget(QWidget *parent) :
     QSqlDatabase db=QSqlDatabase::addDatabase("QMYSQL");
     db.setHostName("localhost");
     db.setUserName("root");
-    db.setPassword("jishubu@123");
+    //db.setPassword("jishubu@123");
+    db.setPassword("root");
     db.setDatabaseName("dayet");
     if(!db.open()){
         QString dlgTitle="失败";
