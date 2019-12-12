@@ -32,7 +32,7 @@
 
 #### 你的支持是作者最大的动力
 
-![](G:\vsproject\myjob\Dayet_qt\images\支付宝.png)
+![image](images/支付宝.png)
 
 ![image](images/微信.png)
 
