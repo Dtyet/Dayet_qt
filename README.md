@@ -27,3 +27,12 @@
 ### 13、笔记本MarkDown
 
 ### 14、交易推广
+
+# 赞助作者
+
+#### 你的支持是作者最大的动力
+
+![](G:\vsproject\myjob\Dayet_qt\images\支付宝.png)
+
+![](G:\vsproject\myjob\Dayet_qt\images\微信.png)
+
