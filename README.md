@@ -34,5 +34,6 @@
 
 ![](G:\vsproject\myjob\Dayet_qt\images\支付宝.png)
 
-![](G:\vsproject\myjob\Dayet_qt\images\微信.png)
+![image](images/微信.png)
+
 
