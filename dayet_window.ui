@@ -14,8 +14,8 @@
    <string>Form</string>
   </property>
   <property name="windowIcon">
-   <iconset resource="images.qrc">
-    <normaloff>:/d_image/images/20150428021753_Auj2h.jpeg</normaloff>:/d_image/images/20150428021753_Auj2h.jpeg</iconset>
+   <iconset resource="res.qrc">
+    <normaloff>:/images/images/tx.jpg</normaloff>:/images/images/tx.jpg</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true"/>
@@ -90,7 +90,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap resource="images.qrc">:/d_image/images/20150428021753_Auj2h.jpeg</pixmap>
+       <pixmap>:/d_image/images/20150428021753_Auj2h.jpeg</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -310,7 +310,7 @@
   </widget>
  </widget>
  <resources>
-  <include location="images.qrc"/>
+  <include location="res.qrc"/>
  </resources>
  <connections/>
 </ui>

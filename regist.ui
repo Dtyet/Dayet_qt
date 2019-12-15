@@ -26,8 +26,8 @@
    <string>注册</string>
   </property>
   <property name="windowIcon">
-   <iconset resource="images.qrc">
-    <normaloff>:/d_image/images/20150428021753_Auj2h.jpeg</normaloff>:/d_image/images/20150428021753_Auj2h.jpeg</iconset>
+   <iconset resource="res.qrc">
+    <normaloff>:/images/images/tx.jpg</normaloff>:/images/images/tx.jpg</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color: rgb(85, 170, 255);</string>
@@ -208,9 +208,6 @@
         <property name="text">
          <string/>
         </property>
-        <property name="pixmap">
-         <pixmap resource="images.qrc">:/d_image/images/58cc-hcscwxa5173216.jpg</pixmap>
-        </property>
         <property name="scaledContents">
          <bool>true</bool>
         </property>
@@ -387,7 +384,7 @@
   </layout>
  </widget>
  <resources>
-  <include location="images.qrc"/>
+  <include location="res.qrc"/>
  </resources>
  <connections/>
 </ui>
