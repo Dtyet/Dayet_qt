@@ -32,8 +32,8 @@
 
 #### 你的支持是作者最大的动力
 
-![image](images/支付宝.png)
+![image](images/zfb.png)
 
-![image](images/微信.png)
+![image](images/wx.png)
 
 
