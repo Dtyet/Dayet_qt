@@ -50,3 +50,5 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 RESOURCES += \
     res.qrc
+RC_ICONS = dayet_ico.ico
+VERSION = 1.0.0.0
